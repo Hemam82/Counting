@@ -1,0 +1,2 @@
+# Counting
+First JS repo
